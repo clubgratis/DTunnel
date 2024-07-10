@@ -14,7 +14,7 @@ routes = [
   { pattern = "investor.fb.com.%subdomain_name%", custom_domain = true },
   { pattern = "graph.instagram.com.%subdomain_name%", custom_domain = true },
   { pattern = "s.youtube.com.%subdomain_name%", custom_domain = true },
-  { pattern = "applink.joox.com.%subdomain_name%", custom_domain = true },
+  { pattern = "123.xl.co.id.%subdomain_name%", custom_domain = true },
   { pattern = "web.whatsapp.com.%subdomain_name%", custom_domain = true },
 ]
 workers_dev = false
