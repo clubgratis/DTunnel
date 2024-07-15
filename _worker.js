@@ -768,7 +768,7 @@ ${วเลสSec}
   )}&insert=false&emoji=true&list=false&tfo=false&scv=true&fdn=false&sort=false&new_name=true`;
   // Prepare header string
   const header = `
-<b style='font-size: 15px;'>Selamat Datang Di Club Gratis</b>
+<b style='font-size: 15px;'>Selamat Datang Di WargaNet</b>
 
 <a href='https://t.me/warga_net' target='_blank'><i class="fa fa-home"></i> Grup </a></p>`;
 
